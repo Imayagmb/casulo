@@ -37,7 +37,7 @@ header {
 }
 
 .menu a:hover {
-    color: #fff; /* Cor branca ao passar o mouse */
+    color: #fff; 
       border-radius: 5px;
 }
 
